@@ -1,0 +1,2 @@
+# Arabic not-found page for everything under /ar/
+ErrorDocument 404 /ar/404.html
